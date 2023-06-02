@@ -1,5 +1,5 @@
 variable "aws_region" {
-  description = "Region for AWS resources"
+  description = "Region for AWS resource addition"
   type = string
     }
 
